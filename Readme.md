@@ -37,4 +37,4 @@ Estes são exemplos simples para fins educacionais e de aprendizado. Em ambiente
 
 Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
-**Autor:** Seu Nome
+**Autor:** Bruno Arthsson Silva
